@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### Welcome! I'm Yu-Jie Chou!
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
 - 🏅 Kaggle: Cassava Leaf Disease Classification 469/3900 (12.0%)
+- 🏅 AIdea: 2021-自動光學瑕疵檢測 45/487 (9.2%)
 - 🏅 AIdea: 香水百合價量預測 7/361 (1.9%)
 - 🏅 AIdea: 愛文芒果不良品分類競賽 39/777 (5.0%)
 - 🏆 2020全臺大專校院智慧創新暨跨域整合創作競賽 物聯網組 第二名
